@@ -1,6 +1,6 @@
 # Jenkins CI/CD Pipeline Project
 
-This repository contains the implementation of a Continuous Integration and Continuous Delivery (CI/CD) pipeline for a Java-based web application using Jenkins, Docker, and AWS services. The pipeline automates the build, test, and deployment processes, ensuring efficient and reliable software delivery.
+The repository contains the implementation of a Continuous Integration and Continuous Delivery (CI/CD) pipeline for a Java-based web application using Jenkins, Docker, and AWS services. The pipeline automates the build, test, and deployment processes, ensuring efficient and reliable software delivery.
 
 ## Key Features
 
